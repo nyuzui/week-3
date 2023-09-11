@@ -5,9 +5,13 @@ ps : i didnt have a partner for this assignment so i did not know what to do for
 
 ## Video 1:
 ### What made the idea viable?
+
 highlighting the parts that you are looking for is very important 
+
 ### What is the original issue with the Lit code highlighter?
+
 that sometimes it highlights the enitre thing instead of specific stuff 
+
 ### What’s a strategy you can engage in in order to refactor toward better code? What strategy / how many iterations did I go through to get “better code”? - What makes this code better?
 
 
