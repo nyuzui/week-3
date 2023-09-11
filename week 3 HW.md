@@ -13,16 +13,15 @@ ps : i didnt have a partner for this assignment so i did not know what to do for
 ### What weird event did I implement to solve a UX problem?
 allowBackgroundPlay
 ### What is the difference between document and window in javascript? Find the Mozilla Developer Network page about this.
-
+In JavaScript document represents the current web page's HTML content and structure, while window represents the browser window and provides access to browser-related features.
+https://developer.mozilla.org/en-US/docs/Web/API/Window
 ### Find 8 events that user input can generate via the MDN Web Docs. Link to examples
-I'm unable to browse the internet or access specific external websites, including MDN Web Docs, to provide direct links to examples. However, I can suggest 8 common events that user input can generate in web development, and you can find examples and detailed information about them on MDN Web Docs by searching for each event individually:
-```
-1. **Click Event**: [MDN Click Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event)
-2. **Mouseover Event**: [MDN Mouseover Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseover_event)
-3. **Keydown Event**: [MDN Keydown Event](https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event)
-4. **Input Event**: [MDN Input Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/input_event)
-5. **Submit Event**: [MDN Submit Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
-6. **Change Event**: [MDN Change Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event)
-7. **Focus Event**: [MDN Focus Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/focus_event)
-8. **Scroll Event**: [MDN Scroll Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll_event)
-```
+1. **Click Event**: (https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event)
+2. **Mouseover Event**: (https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseover_event)
+3. **Keydown Event**: (https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event)
+4. **Input Event**: (https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/input_event)
+5. **Submit Event**: (https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
+6. **Change Event**: (https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event)
+7. **Focus Event**: (https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/focus_event)
+8. **Scroll Event**: (https://developer.mozilla.org/en-US/docs/Web/API/Element/scroll_event)
+
